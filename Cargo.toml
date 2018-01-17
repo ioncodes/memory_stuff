@@ -1,0 +1,9 @@
+[package]
+name = "memory_stuff"
+version = "0.1.0"
+authors = ["Luca Marcelli <ionix@protonmail.com>"]
+
+[dependencies]
+libc = "*"
+aligned_alloc = "*"
+region = "*"
